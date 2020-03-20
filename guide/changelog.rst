@@ -1,5 +1,21 @@
 C-ROADS Model Version History
 ===============================
+May 2020 Release
+----------------
+Updated
+~~~~~~~
+- C-ROADS Model version 1.24
+- Updated data through 2018 for GDP and CO\ :sub:`2` 
+- Update F-gases to be consistent with SSP2 (as with En-ROADS)
+
+Fixed
+~~~~~
+- 
+
+New
+~~~
+- Add new menu selection, Help>Release Notes, to access model release notes
+
 March 2020 Release
 ------------------
 Updated 
