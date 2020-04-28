@@ -1,11 +1,11 @@
-## C-ROADS Model Version History
+C-ROADS Model Version History
 ===============================
 May 2020 Release
 ----------------
 Updated
 ~~~~~~~
-- C-ROADS Model version 1.24
-- Updated data through 2018 for GDP and CO\ :sub:`2` 
+- C-ROADS Model version 1.26
+- Updated historical data through 2018 for GDP and CO\ :sub:`2` 
 - Update F-gases to be consistent with SSP2 (as with En-ROADS)
 
 New
@@ -41,8 +41,7 @@ March 2018 release
 ------------------
 Version 1.1.7, released on 2018-03-14
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- updated the model to C-ROADS 1.09
-
+- C-ROADS model version 1.09
 - Refine the layout of the temperature in 2100 panel
 - Added Paris outcome reference scenarios to more graphs
 - Quit app when window closed on Mac
