@@ -1,5 +1,19 @@
 C-ROADS Model Version History
 ===============================
+August 2020 Release
+-------------------
+Updated
+~~~~~~~
+- C-ROADS Model version 1.29
+
+Fixed
+~~~~~
+- Fixed behavior of "Prevent Deforestation" for regions with net negative land use emissions
+
+New
+~~~
+- Added "Economic Growth" and "Population Growth" sliders in Assumptions panel
+
 May 2020 Release
 ----------------
 Updated
