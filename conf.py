@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'C-ROADS Guide'
-copyright = u'2020, Climate Interactive'
+copyright = u'2021, Climate Interactive'
 author = u'Climate Interactive'
 
 # The short X.Y version
