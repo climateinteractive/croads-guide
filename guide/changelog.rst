@@ -8,10 +8,6 @@ Updated
 - C-ROADS Model version 1.32 
 - Set starting years to 2021
 
-Fixed
-~~~~~
-- "Paris Outcomes" updated?
-
 New
 ~~~
 - Temperature change now reported relative to 19th century instead of 18th century.
