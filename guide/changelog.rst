@@ -1,5 +1,19 @@
 C-ROADS Model Version History
 ===============================
+
+December 2020 Release
+---------------------
+Updated
+~~~~~~~
+- C-ROADS Model version 1.32 - updated to align with the baseline scenario of En-ROADS, which results in temperature in 2100 of 3.6°C (6.5°F)
+- Changed the phrase "Business as usual" and "BAU" to "Baseline" across the interface
+- Changed the minimum year for all inputs to 2021
+- Changed the application name from "C-ROADS World Climate" to simply "C-ROADS"
+
+Fixed
+~~~~~
+- Improved the layout to make room for larger graphs
+
 August 2020 Release
 -------------------
 Updated
