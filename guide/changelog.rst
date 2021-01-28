@@ -1,5 +1,59 @@
 C-ROADS Model Version History
 ===============================
+<<<<<<< Updated upstream
+=======
+
+February 2021 Release
+-------------------
+
+Updated ???
+~~~~~~~
+- C-ROADS Model version 1.32
+
+New
+~~~
+- Short description video about C-ROADS ???add link
+
+Fixed
+~~~~~
+- Corrected the "Sources of CO\ :sub:`2` Removals" graph to read "Sources of Carbon Removals" and corrected the y-axis label to indicate "Gigatons carbon/year"
+- Relocated the graph, "Global Cumulative CO\ :sub:`2` Emissions from 1900-2017" under the Energy CO\ :sub:`2` Emissions menu where it belongs. 
+- Removed the "Show Paris Outcomes" feature under the "View" menu. It will be replaced with ____ in a future update model update. 
+
+
+December 2020 Release
+-------------------
+
+Updated
+~~~~~~~
+- C-ROADS Model version 1.32 
+- Set starting years to 2021
+
+New
+~~~
+- Temperature change now reported relative to 19th century instead of 18th century.
+- New Baseline resulting in Temperature in 2100 of 3.6°C/6.5°F
+- Changed "C-ROADS World Climate" to "C-ROADS" throughout the Interface and in the supporting materials.
+- Baseline Greenhouse gases per GDP parameters adjusted to better reflect recent trends and updated projections in energy and land use.
+- Changed the phrase "Business as usual" and "BAU" to "Baseline" throughout C-ROADS interface and supporting materials
+- Long term GDP per capita rate from 1%/year to 1.5%/year but achieved sooner, i.e., decreased convergence time.
+- Last GDP historic year from 2018 to 2019, now in $2017 PPP (purchasing power parity) changed from $2011 PPP.
+ 
+August 2020 Release
+-------------------
+Updated
+~~~~~~~
+- C-ROADS Model version 1.29
+
+Fixed
+~~~~~
+- Fixed behavior of "Prevent Deforestation" for regions with net negative land use emissions
+
+New
+~~~
+- Added "Economic Growth" and "Population Growth" sliders in Assumptions panel
+
+>>>>>>> Stashed changes
 May 2020 Release
 ----------------
 Updated
