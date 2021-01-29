@@ -1,14 +1,12 @@
 C-ROADS Model Version History
 ===============================
-<<<<<<< Updated upstream
-=======
 
 February 2021 Release
--------------------
+---------------------
 
-Updated ???
+Updated
 ~~~~~~~
-- C-ROADS Model version 1.32
+- C-ROADS Model version 1.32 ???
 
 New
 ~~~
@@ -18,11 +16,11 @@ Fixed
 ~~~~~
 - Corrected the "Sources of CO\ :sub:`2` Removals" graph to read "Sources of Carbon Removals" and corrected the y-axis label to indicate "Gigatons carbon/year"
 - Relocated the graph, "Global Cumulative CO\ :sub:`2` Emissions from 1900-2017" under the Energy CO\ :sub:`2` Emissions menu where it belongs. 
-- Removed the "Show Paris Outcomes" feature under the "View" menu. It will be replaced with ____ in a future update model update. 
+- Removed the "Show Paris Outcomes" feature under the "View" menu. It will be replaced with ??? in a future update model update. 
 
 
 December 2020 Release
--------------------
+---------------------
 
 Updated
 ~~~~~~~
@@ -53,7 +51,6 @@ New
 ~~~
 - Added "Economic Growth" and "Population Growth" sliders in Assumptions panel
 
->>>>>>> Stashed changes
 May 2020 Release
 ----------------
 Updated
